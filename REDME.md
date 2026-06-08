@@ -1,1 +1,2 @@
-Supported ountries: PL, SWISS
+Supported ountries: PL, SWISS, Portugal,
+Unsupported countries: DE, UK
