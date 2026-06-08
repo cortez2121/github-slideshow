@@ -1,1 +1,1 @@
-Supported ountries: PL, SWISS
+Supported ountries: PL, SWISS, UK, Portugal
