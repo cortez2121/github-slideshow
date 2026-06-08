@@ -1,0 +1,1 @@
+Supported ountries: PL, SWISS
